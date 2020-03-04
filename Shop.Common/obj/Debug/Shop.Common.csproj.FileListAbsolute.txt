@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Common\bin\Debug\Shop.Common.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Common\bin\Debug\Shop.Common.pdb
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Common\obj\Debug\Shop.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Common\obj\Debug\Shop.Common.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Common\obj\Debug\Shop.Common.pdb

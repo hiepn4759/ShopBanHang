@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Shop.UnitTest.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Shop.UnitTest.pdb
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\obj\Debug\Shop.UnitTest.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\obj\Debug\Shop.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\obj\Debug\Shop.UnitTest.csproj.CopyComplete
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\obj\Debug\Shop.UnitTest.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\obj\Debug\Shop.UnitTest.pdb
