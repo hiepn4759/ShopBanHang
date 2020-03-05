@@ -77,10 +77,6 @@
       <Project>{98d2fcd0-04cf-46fc-a02b-2a91bce3b879}</Project>
       <Name>Shop.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Shop.Data\Shop.Data.csproj">
-      <Project>{bff81e1c-18f0-4694-a2bf-a13c0bede484}</Project>
-      <Name>Shop.Data</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
