@@ -12,3 +12,6 @@ C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\bin\Debug\EntityFramework.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\bin\Debug\EntityFramework.xml
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\bin\Debug\Shop.Model.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\bin\Debug\Shop.Model.pdb
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\bin\Debug\Shop.Model.dll.config
