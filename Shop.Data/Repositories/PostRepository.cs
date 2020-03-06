@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Shop.Model.Models;
 
-namespace TeduShop.Data.Repositories
+namespace Shop.Data.Repositories
 {
     public interface IPostRepository : IRepository<Post>
     {
@@ -11,7 +11,7 @@ namespace TeduShop.Data.Repositories
     }
 
     public class PostRepository : RepositoryBase<Post>, IPostRepository
-    {
+    { 
         public PostRepository(IDbFactory dbFactory) : base(dbFactory)
         {
         }
@@ -24,6 +24,7 @@ namespace TeduShop.Data.Repositories
                         where pt.TagID == tag && p.Status
                         orderby p.CreatedDate descending
                         select p;
+           
 
             totalRow = query.Count();
 

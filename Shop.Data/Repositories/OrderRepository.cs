@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data.SqlClient;
 using Shop.Model.Models;
 
-namespace TeduShop.Data.Repositories
+namespace Shop.Data.Repositories
 {
     public interface IOrderRepository : IRepository<Order>
     {
