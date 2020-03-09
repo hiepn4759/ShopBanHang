@@ -4,11 +4,12 @@ using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNet.Identity.EntityFramework;
 using Shop.Model.Models;
 
 namespace Shop.Data
 {
-    public class ShopBanHangDbContext : DbContext
+    public class ShopBanHangDbContext : IdentityDbContext<ApplicationUser>
     {
         public ShopBanHangDbContext() : base("ShopBanHangConnection")
         {
@@ -53,7 +54,8 @@ namespace Shop.Data
         /// <param name="builder"></param>
         protected override void OnModelCreating(DbModelBuilder builder)
         {
-
+            builder.Entity<IdentityUserRole>().HasKey(i => new { i.UserId, i.RoleId });
+            builder.Entity<IdentityUserLogin>().HasKey(i => i.UserId);       
         }
     }
 }

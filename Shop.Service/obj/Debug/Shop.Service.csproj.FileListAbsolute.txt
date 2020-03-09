@@ -18,3 +18,7 @@ C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\obj\Debug\Shop.Service.cspr
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\obj\Debug\Shop.Service.csproj.CopyComplete
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\obj\Debug\Shop.Service.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\obj\Debug\Shop.Service.pdb
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
