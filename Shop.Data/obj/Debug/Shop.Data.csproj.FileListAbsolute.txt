@@ -17,3 +17,4 @@ C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\bin\Debug\Shop.Model.pdb
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\bin\Debug\Shop.Model.dll.config
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\obj\Debug\Shop.Data.Migrations.InitialDB.resources
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\obj\Debug\Shop.Data.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Data\obj\Debug\Shop.Data.Migrations.AddErrorTable.resources
