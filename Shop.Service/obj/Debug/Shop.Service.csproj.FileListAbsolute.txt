@@ -6,6 +6,8 @@ C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\EntityFramework.S
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Shop.Common.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Shop.Data.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Shop.Model.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Shop.Common.pdb
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Shop.Data.pdb
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Shop.Data.dll.config
@@ -13,12 +15,10 @@ C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Shop.Model.pdb
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Shop.Model.dll.config
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\EntityFramework.xml
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\obj\Debug\Shop.Service.csprojAssemblyReference.cache
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\obj\Debug\Shop.Service.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\obj\Debug\Shop.Service.csproj.CopyComplete
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\obj\Debug\Shop.Service.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\obj\Debug\Shop.Service.pdb
-C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Admin\source\repos\ShopBanHang\Shop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml

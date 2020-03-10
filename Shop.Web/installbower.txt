@@ -1,0 +1,4 @@
+﻿Can 2 cai file .bowercc va bower.json
+
+bower install
+

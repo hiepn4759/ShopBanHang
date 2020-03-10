@@ -15,6 +15,8 @@ C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Shop.Model.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Shop.Service.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Shop.Data.pdb
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Shop.Data.dll.config
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Shop.Model.pdb
@@ -29,12 +31,10 @@ C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.Visual
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Moq.xml
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\obj\Debug\Shop.UnitTest.csprojAssemblyReference.cache
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\obj\Debug\Shop.UnitTest.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\obj\Debug\Shop.UnitTest.csproj.CopyComplete
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\obj\Debug\Shop.UnitTest.dll
 C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\obj\Debug\Shop.UnitTest.pdb
-C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Admin\source\repos\ShopBanHang\Shop.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
