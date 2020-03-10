@@ -6,3 +6,12 @@
 	Cách sử dụng module trong ứng dụng
 
 Bài 18:
+	Tìm hiểu về biến $scope và $rootScope trong Angular JS
+
+	Khái niệm scope
+	Phạm vi ảnh hưởng của Scope
+	Tìm hiểu về rootScope
+	Scope lông nhau
+
+Bài 19:
+Bài 20:
