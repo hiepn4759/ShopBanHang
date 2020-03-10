@@ -1,0 +1,8 @@
+﻿Bài 17:
+
+	Khái niệm module và tạo một module
+	Khái niệm controller và cách tạo controller
+	Cách register một controller với một module
+	Cách sử dụng module trong ứng dụng
+
+Bài 18:
